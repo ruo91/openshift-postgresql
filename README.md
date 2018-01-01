@@ -2,7 +2,8 @@
 
 # 1. Git Clone
 ```sh
-# git clone https://github.com/ruo91/openshift-postgresql.git cd openshift-postgresql
+# git clone https://github.com/ruo91/openshift-postgresql.git
+# cd openshift-postgresql
 ```
 
 # 2. Create Template
