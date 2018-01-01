@@ -1,6 +1,6 @@
 # OpenShift - Image deploy template for PostgreSQL
 
-1. Git Clone
+# 1. Git Clone
 ```sh
 # git clone https://github.com/ruo91/openshift-postgresql.git cd openshift-postgresql
 ```
